@@ -17,19 +17,19 @@ editor: visual
 **Session Chair:**  [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)
 :::
 
-| Time          | Topic                                           | Type      | Presenter                                                                             |
-|---------------|-------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
-| 08:00 - 08:30 | Arrival and registration                        |           |                                                                                       |
-| 08:30 - 08:50 | Introductions and welcoming remarks             |           | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
-| 08:50 - 09:00 | Goals, objectives and structure of the training |           | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
-| 09:00 - 10:30 | Introduction to HTA                             | Lecture   | [Saudamini Dabak](https://www.hitap.net/en/staff/170776)                              |
-| 10:30 - 11:00 | ☕ Tea break                                    |           |                                                                                       |
-| 11:00 - 12:00 | Case studies of HTA in health decision-making   |           | [Panchanok Muenkaew](https://www.hitap.net/en/staff/189371)                           |
-| 12:00 - 12:40 | Infrastructure for HTA: Where are we in Kenya?  | Lecture   | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
-| 12:40 - 14:00 | 🍲 Lunch break                                  |           |                                                                                       |
-| 14:00 - 15:00 | Topic nomination                                | Practical | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
-| 15:00 - 16:00 | Group Feedback                                  | Plenary   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
-| 16:00 - 16:30 | ☕ Tea break                                    |           |                                                                                       |
+| Time          | Topic                                                                                                        | Type      | Presenter                                                                             |
+|---------------|---------------|---------------|---------------------------|
+| 08:00 - 08:30 | Arrival and registration                                                                                     |           |                                                                                       |
+| 08:30 - 08:50 | Introductions and welcoming remarks                                                                          |           | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
+| 08:50 - 09:00 | Goals, objectives and structure of the training                                                              |           | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 09:00 - 10:30 | [Introduction to HTA](https://drive.google.com/file/d/1ZZRgN-sDohlQEnqR7HEv9xzaMQsQJdA1/view?usp=share_link) | Lecture   | [Saudamini Dabak](https://www.hitap.net/en/staff/170776)                              |
+| 10:30 - 11:00 | ☕ Tea break                                                                                                 |           |                                                                                       |
+| 11:00 - 12:00 | Case studies of HTA in health decision-making                                                                |           | [Panchanok Muenkaew](https://www.hitap.net/en/staff/189371)                           |
+| 12:00 - 12:40 | Infrastructure for HTA: Where are we in Kenya?                                                               | Lecture   | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
+| 12:40 - 14:00 | 🍲 Lunch break                                                                                               |           |                                                                                       |
+| 14:00 - 15:00 | [Topic nomination](https://drive.google.com/file/d/1L9kZ8iwt-KQrlxNh2M2AcbNhZV0ELtAV/view?usp=share_link)    | Practical | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 15:00 - 16:00 | Group Feedback                                                                                               | Plenary   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
+| 16:00 - 16:30 | ☕ Tea break                                                                                                 |           |                                                                                       |
 
 ::: {.callout-note appearance="minimal"}
 ## Day 2: 23rd July 2024
@@ -42,7 +42,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                               | Type      | Presenter                                                                                        |
-|---------------|---------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------|
+|---------------|----------------|---------------|--------------------------|
 | 08:30 - 09:00 | Epidemiology key concepts I (Introduction to epidemiology)          | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)            |
 | 09:00 - 10:30 | Epidemiology key concepts II (Study design and measures of disease) | Lecture   | [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)             |
 | 10:30 - 11:00 | ☕ Tea break                                                        |           |                                                                                                  |
@@ -66,7 +66,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                     | Type      | Presenter                                                                             |
-|---------------|-----------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
+|---------------|----------------|---------------|--------------------------|
 | 08:30 - 09:30 | Evidence synthesis: Systematic reviews and meta-analysis  | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
 | 09:30 - 10:30 | Overview of economic evaluation frameworks                | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 10:30 - 11:00 | ☕ Tea break                                              |           |                                                                                       |
@@ -89,7 +89,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                          | Type      | Presenter                                                                             |
-|---------------|--------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
+|---------------|--------------------|---------------|----------------------|
 | 08:30 - 09:05 | Economic modeling techniques I: Decision trees                                 | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 09:05 - 09:55 | Economic modeling techniques I: Decision trees                                 | Practical | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 09:55 - 10:20 | ☕ Tea break                                                                   |           |                                                                                       |
@@ -113,7 +113,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                                               | Type    | Presenter                                                                               |
-|---------------|-----------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------|
+|---------------|-----------------------|---------------|-------------------|
 | 08:30 - 09:30 | Introduction to social, ethics and equity in HTA                                                    | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
 | 09:30 - 10:30 | Social determinants of Health & Equity in Health                                                    | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
 | 10:30 - 11:00 | ☕ Tea break                                                                                        |         |                                                                                         |
