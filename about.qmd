@@ -18,7 +18,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                                                        | Type      | Presenter                                                                             |
-|----------------|----------------|----------------|------------------------|
+|---------------|--------------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
 | 08:00 - 08:30 | Arrival and registration                                                                                     |           |                                                                                       |
 | 08:30 - 08:50 | Introductions and welcoming remarks                                                                          |           | [Daniel Mwai](https://economics.uonbi.ac.ke/staff/dr-daniel-ngugi-mwai)               |
 | 08:50 - 09:00 | Goals, objectives and structure of the training                                                              |           | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
@@ -42,7 +42,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                                                                                                        | Type      | Presenter                                                                                        |
-|----------------|----------------|----------------|------------------------|
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------|
 | 08:30 - 09:00 | [Epidemiology key concepts I (Introduction to epidemiology)](https://drive.google.com/file/d/1SGjMbr9kJNAG2k0Nsfn1H60-cvRLD8ZG/view?usp=share_link)          | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech)            |
 | 09:00 - 10:30 | [Epidemiology key concepts II (Study design and measures of disease)](https://drive.google.com/file/d/14Nnf5IvBd5pdH9mxWFWK0aMJ1kosMjlJ/view?usp=share_link) | Lecture   | [Jeanette Dawa](https://cema-africa.uonbi.ac.ke/people/secretariat/dr-jeanette-dawa)             |
 | 10:30 - 11:00 | ☕ Tea break                                                                                                                                                 |           |                                                                                                  |
@@ -66,7 +66,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                                                                               | Type      | Presenter                                                                             |
-|----------------|----------------|----------------|------------------------|
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
 | 08:30 - 09:30 | Evidence synthesis: Systematic reviews and meta-analysis                                                                            | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
 | 09:30 - 10:30 | [Overview of economic evaluation frameworks](https://drive.google.com/file/d/1fWHey22HVBsbeG4IFHoq3NPzRQu3lZDh/view?usp=share_link) | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 10:30 - 11:00 | ☕ Tea break                                                                                                                        |           |                                                                                       |
@@ -89,7 +89,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                          | Type      | Presenter                                                                             |
-|-----------------|-------------------|-----------------|---------------------|
+|---------------|--------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
 | 08:30 - 09:05 | Economic modeling techniques I: Decision trees                                 | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 09:05 - 09:55 | Economic modeling techniques I: Decision trees                                 | Practical | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 09:55 - 10:20 | ☕ Tea break                                                                   |           |                                                                                       |
@@ -113,7 +113,7 @@ editor: visual
 :::
 
 | Time          | Topic                                                                                               | Type    | Presenter                                                                               |
-|-----------------|----------------------|-----------------|------------------|
+|---------------|-----------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------|
 | 08:30 - 09:30 | Introduction to social, ethics and equity in HTA                                                    | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
 | 09:30 - 10:30 | Social determinants of Health & Equity in Health                                                    | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
 | 10:30 - 11:00 | ☕ Tea break                                                                                        |         |                                                                                         |
