@@ -68,7 +68,7 @@ editor: visual
 
 | Time          | Topic                                                                                                                                              | Type      | Presenter                                                                             |
 |-----------------|-----------------|-----------------|----------------------|
-| 08:30 - 09:30 | Evidence synthesis: Systematic reviews and meta-analysis                                                                                           | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
+| 08:30 - 09:30 | [Evidence synthesis: Systematic reviews and meta-analysis](https://drive.google.com/file/d/1z2g2WlI4LzQDt-hsj-NvZrI0ZWfggA6J/view?usp=share_link)  | Lecture   | [George Paul Omondi](https://globalhealthcenter.umn.edu/staff/george-omondi-paul)     |
 | 09:30 - 10:30 | [Overview of economic evaluation frameworks](https://drive.google.com/file/d/1fWHey22HVBsbeG4IFHoq3NPzRQu3lZDh/view?usp=share_link)                | Lecture   | [Manit Sittimart](https://www.hitap.net/en/staff/179664)                              |
 | 10:30 - 11:00 | ☕ Tea break                                                                                                                                       |           |                                                                                       |
 | 11:00 - 11:45 | [Concepts and applications of cost analysis in Health Care](https://drive.google.com/file/d/1pCyhpufkj1ejd7bIJAr0MIOrniwuKL2s/view?usp=share_link) | Lecture   | [Tabitha Okech](https://cema-africa.uonbi.ac.ke/people/epidemiology/dr-tabitha-okech) |
