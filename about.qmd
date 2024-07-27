@@ -115,7 +115,7 @@ editor: visual
 
 | Time          | Topic                                                                                                                                         | Type    | Presenter                                                                               |
 |-----------------|---------------------|-----------------|-----------------|
-| 08:30 - 09:30 | Introduction to social, ethics and equity in HTA                                                                                              | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
+| 08:30 - 09:30 | [Introduction to social, ethics and equity in HTA](https://drive.google.com/file/d/1y81iI3bU1Q5MsnGlH2EVtyZWX2LZXFVy/view?usp=share_link)     | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
 | 09:30 - 10:30 | Social determinants of Health & Equity in Health                                                                                              | Lecture | [Alex Nginyo](https://sep.kemri-wellcome.org/science-at-kemri/alex-hinga/)              |
 | 10:30 - 11:00 | ☕ Tea break                                                                                                                                  |         |                                                                                         |
 | 11:00 - 11:45 | [Applying social, ethics and equity principles in HTA](https://drive.google.com/file/d/1dVBMTeAvCvyCD7WHAX_2bDp-p-eFctn_/view?usp=share_link) | Lecture | [Saudamini Dabak](https://www.hitap.net/en/staff/170776)                                |
